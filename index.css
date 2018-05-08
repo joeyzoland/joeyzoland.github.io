@@ -1,0 +1,100 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.wrapper{
+  background-color: black;
+}
+.header{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: #e6e6e6;
+}
+.header_name{
+  display: inline-block;
+  margin-left: 10px;
+}
+#header_dashboard{
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+#profile_pic{
+  margin-top: 90px;
+}
+#picture_summary{
+  text-align: center;
+  padding: 100px;
+  background: radial-gradient(#7fc8ff, #0092ff);
+  color: black;
+}
+#picture_summary h1{
+  font-size: 50px;
+  margin-top: 50px;
+}
+#text_summary{
+  text-align: center;
+  padding: 10px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: radial-gradient(#ffc17f, #ff8300);
+  color: black;
+}
+#text_summary button{
+  height: 32px;
+  width: 100px;
+  font-weight: bold;
+}
+#text_summary h1{
+  margin-top: 0px;
+}
+#projects_summary{
+  padding: 100px;
+  /*color: #cccccc;*/
+  /*color: #a9a9a9;*/
+  color: black;
+  text-align: center;
+  background: radial-gradient(#9975b9, #663096);
+}
+#projects_summary div{
+  margin-left: auto;
+  margin-right: auto;
+}
+#projects_summary h1{
+  text-decoration: underline;
+  margin-top: 0px;
+}
+#redDudeDiv{
+  margin-top: 40px;
+}
+#iosVideos div{
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+/*#calculatorVideo{
+  height: 620px;
+  width: 327px;
+}
+#tetrisVideo{
+  height: 620px;
+  width: 327px;
+}*/
+#contact_info{
+  padding: 100px;
+  text-align: center;
+  background: radial-gradient(#ffef99, #ffd700);
+  color: black;
+}
+#contact_info h1{
+  margin-top: 0px;
+}
+.btn{
+  width: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
