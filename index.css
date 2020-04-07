@@ -11,11 +11,15 @@
 .header_name{
   display: inline-block;
   margin-left: 10px;
+  font-size: 2vw;
 }
 #header_dashboard{
   display: inline-block;
   margin-right: 10px;
   vertical-align: middle;
+}
+#header_dashboard h3 a{
+  font-size: 2vw;
 }
 #profile_pic{
   border-style: solid;
